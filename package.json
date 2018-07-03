@@ -1,0 +1,22 @@
+{
+  "name": "10-stacks-and-queues",
+  "version": "1.0.0",
+  "description": "![cf](http://i.imgur.com/7v5ASc8.png) Stacks and Queues Data Structures ====",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjmendoza/10-stacks-and-queues.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjmendoza/10-stacks-and-queues/issues"
+  },
+  "homepage": "https://github.com/hjmendoza/10-stacks-and-queues#readme"
+}
